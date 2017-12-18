@@ -1,2 +1,2 @@
 # BigEndian_To_LittleEndian
-Simple function to Change endian format 
+Simple C/C++ function to Change endian format 
